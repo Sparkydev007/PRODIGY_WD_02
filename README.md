@@ -8,15 +8,15 @@ This project is a clean and modern stopwatch web application inspired by the iOS
 
 ## ✨ Features
 
-- ⏱️ Elegant iOS-style stopwatch layout
-- 🧊 Glassmorphism UI card design
-- 🌗 Dark/Light Mode toggle (like iOS)
-- 🎨 Calculator-style color palette
-- 🔁 Start / Pause / Reset functionality
-- 📝 Lap time recording
-- 📱 Fully mobile-responsive
-- 📳 Vibration feedback on mobile
-- ⚡ Smooth animations and transitions
+- ⏱️ Elegant iOS-style stopwatch layout  
+- 🧊 Glassmorphism UI card design  
+- 🌗 Dark/Light Mode toggle (like iOS)  
+- 🎨 Calculator-style color palette  
+- 🔁 Start / Pause / Reset functionality  
+- 📝 Lap time recording  
+- 📱 Fully mobile-responsive  
+- 📳 Vibration feedback on mobile  
+- ⚡ Smooth animations and transitions  
 
 ---
 
@@ -30,7 +30,7 @@ This project is a clean and modern stopwatch web application inspired by the iOS
 
 ## 📂 Project Structure
 ```
-PRODIGY_WD_02/
+ PRODIGY_WD_02/
 ├── index.html
 ├── style.css
 └── script.js
@@ -40,7 +40,7 @@ PRODIGY_WD_02/
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the live stopwatch](https://sparkydev007.github.io/PRODIGY_WD_02/)
+🌐 [Click here to view the stopwatch](https://sparkydev007.github.io/PRODIGY_WD_02/)
 
 ---
 
@@ -49,7 +49,7 @@ PRODIGY_WD_02/
 - 👨‍💻 Internship: Web Development @ Prodigy InfoTech  
 - 📌 Task: 02 – Stopwatch  
 - 🗓️ Timeline: June 2025  
-- 🙋‍♂️ Created by: [Prathmesh Bunde](https://www.linkedin.com/in/prathmesh-bunde-97771b209/)  
+- 🙋‍♂️ Created by: [Prathmesh Bunde](https://www.linkedin.com/in/prathmesh-bunde-97771b209/)
 
 ---
 
@@ -61,7 +61,6 @@ Thanks to **Prodigy InfoTech** for providing this opportunity to build, explore,
 
 ## 🔗 Connect with Me
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/prathmesh-bunde-97771b209/)  
 - 🌐 [GitHub](https://github.com/Sparkydev007)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prathmesh-bunde-97771b209/)
-
 
